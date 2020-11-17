@@ -4,6 +4,6 @@ object Main {
     var a = scala.io.StdIn.readInt()
     var b = scala.io.StdIn.readInt()
 
-    println("PROD = "+(a*b))
+    println("PROD = " + (a * b))
   }
 }
