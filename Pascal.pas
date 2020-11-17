@@ -6,6 +6,6 @@ var
 begin
     read(a);
     read(b);
-    x := a*b;
-    writeln('PROD = ',x);
+    x := a * b;
+    writeln('PROD = ', x);
 end.
